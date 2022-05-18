@@ -1,0 +1,98 @@
+{
+  "catagory": [
+    {
+      "id": 1,
+      "name": "shirt",
+      "slug": "shirt"
+    },
+    {
+      "id": 2,
+      "name": "Sari",
+      "slug": "sari"
+    },
+    {
+      "id": 3,
+      "name": "electronic",
+      "slug": "electronic"
+    }
+  ],
+  "products": [
+    {
+      "name": "Digital Printed Short Sleeve t-shirt for Men",
+      "slug": "Digital-Printed-Short-Sleeve-t-shirt-for-Men",
+      "sell_price": "200",
+      "regullar_price": "220",
+      "short_des": "this is the shirt",
+      "rating": "5",
+      "catagoryId": "1",
+      "tagid": "1",
+      "photo": "https://static-01.daraz.com.bd/p/e4c9ac84175bf17d266638365b62e0ea.jpg",
+      "id": 1
+    },
+    {
+      "name": "Comfortable Jersey Full Hata Long Sleeve Tshirt",
+      "slug": "Comfortable-Jersey-Full-Hata-Long-Sleeve-Tshirt",
+      "sell_price": "92",
+      "regullar_price": "256",
+      "short_des": "সম্মানিত ক্রেতা, আপনার মূল্যবান মতামত দেওয়ার জন্য অনেক অনেক ধন্যবাদ। আপনার সন্তুষ্টি আমাদের একান্ত কাম্য। আরো উন্নত সেবা প্রদানের লক্ষ্যে, আপনার মূল্যবান মতামত, সুপরামর্শ আমাদের দিকনির্দেশনা হয়ে থাকবে। আমাদের অনাকাঙ্ক্ষিত ভুলত্রুটি ক্ষমাসুন্দর দৃষ্টিতে দেখে পরবর্তীতে আবার আমাদের সেবা গ্রহন করবেন। (আল্লাহ হাফেজ) ভালো মানের প্রোডাক্ট পেতে আমাদের Bangla Mart এর সাথেই থাকুন.",
+      "rating": "4",
+      "catagoryId": "1",
+      "tagid": "1",
+      "photo": "https://static-01.daraz.com.bd/p/09d5ed5825f3363d8a7129b3704fbeec.jpg",
+      "id": 2
+    },
+    {
+      "name": "Outdoor Small Backpack for Unisex",
+      "slug": "Outdoor-Small-Backpack-for-Unisex",
+      "sell_price": "125",
+      "regullar_price": "270",
+      "short_des": "আলহামদুলিল্লাহ দাম অনুসারে অনেক সুন্দর হয়েছে । আমার ব্যাগটি দেয়ার কথা ছিল সাত দিন এ কিন্তু দিয়ে দিলো মাএ দুই দিন এ । অনেক সুন্দর হয়েছে । আপনারা চাইলে নিতে পারেন 👍",
+      "rating": "5",
+      "catagoryId": "2",
+      "tagid": "2",
+      "photo": "https://static-01.daraz.com.bd/p/mdc/deb4e3c112892aeffaacb61ec457ad28.jpg",
+      "id": 3
+    },
+    {
+      "name": "Hp 240 ",
+      "slug": "Hp-240 ",
+      "sell_price": "35000",
+      "regullar_price": "35500",
+      "short_des": "very frienly leptop, price is the best low",
+      "rating": "4",
+      "catagoryId": "3",
+      "tagid": "3",
+      "photo": "https://static-01.daraz.com.bd/p/d2eafdf9846c31d7c6eb9d3311567724.jpg",
+      "id": 4
+    },
+    {
+      "name": "HP Pavilion",
+      "slug": "HP-Pavilion",
+      "sell_price": "69000",
+      "regullar_price": "70000",
+      "short_des": "Brand HP\nModel HP Pavilion 15-eg1678TU\nLaptop Series Pavilion\nPart No 552K4PA\nProcessor Brand Intel\nProcessor Type Intel Core i5\nGeneration 11th (Intel)\nProcessor Model Core i5 1155G7\nProcessor Max Turbo Frequency 4.50 GHz\nProcessor Core 4\nProcessor Thread 8\nCPU Cache 8MB\nChipset.Intel Integrated SoC\nRAM 8GB\nRAM Type DDR4\nRAM Bus (MHz) 3200MHz\nStorage 512GB SSD\nInstalled SSD Type NVMe PCIe\nGraphics Chipset Intel Iris X Graphics\nGraphics Memory Accessibility Integrated\nGraphics Memory Shared\nDisplay Size (Inch) 15.6\nDisplay Type FHD LED\nDisplay Resolution 1920x1080 (WxH) FHD\nDisplay Surface Anti-glare\nTouch Screen No\nDisplay Features IPS, micro-edge, 250 nits, 45% NTSC\nOptical Drive No\nUSB 3 Port 2 x USB Type-A\nUSB C / Thunderbolt Port 1 x USB Type-C\nHDMI Port 1\nAudio Port Combo\nHeadphone Port Combo\nWiFi Wi-Fi 6 (1x2)\nBluetooth Bluetooth 5.2\nAudio Properties Audio by B&O, HP Audio Boost\nSpeaker Dual speakers\nMicrophone.Yes\nWebCam 720p-HD Camera\nKeyboard Back-lit Yes\nBattery 3 Cell\nBattery Capacity 41 Wh\nBattery Type Li-ion\nBackup Time Up to 7 Hrs.\nPower Adapter 45 W Smart AC power adapter",
+      "rating": "5",
+      "catagoryId": "3",
+      "tagid": "3",
+      "photo": "https://static-01.daraz.com.bd/p/3617790ad0fafef0af126995dec42b56.jpg",
+      "id": 5
+    }
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "name": "shirt",
+      "slug": "shirt"
+    },
+    {
+      "id": 2,
+      "name": "sare",
+      "slug": "sare"
+    },
+    {
+      "id": 3,
+      "name": "electronic",
+      "slug": "electronic"
+    }
+  ]
+}

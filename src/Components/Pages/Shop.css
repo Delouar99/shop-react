@@ -1,0 +1,5 @@
+
+.sidebar .widget ul{
+    display: flex;
+    flex-direction: column;
+}
